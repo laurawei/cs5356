@@ -44,7 +44,7 @@ People
 #### Teaching Assistants
 
 * [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
-
+_________________
 
 #### Students
 <!-- Please keep in Alpha order -->
